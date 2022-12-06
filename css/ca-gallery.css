@@ -69,7 +69,7 @@ body {
     right: 3%;
     height: 50px;
     width: 50px;
-    background: #e2cb36;
+    background: #36b4e2;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -82,9 +82,10 @@ body {
     margin-right: 80vw;
 }
 .offcanvas-aside {
+    color: whitesmoke;
     position: fixed;
     height: 100%;
-    background: red;
+    background: rgb(2, 66, 84);
     width: 80vw;
     right: -80vw;
     z-index: 10;
